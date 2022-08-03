@@ -10,3 +10,5 @@ Some edits were made from the example branch to this file.
 ## Updates made on Master on GitHub before rebase.
 
 Merge conflict resolved manually and locally.
+
+## Some Local Changes
