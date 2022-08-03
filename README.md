@@ -9,5 +9,4 @@ Some edits were made from the example branch to this file.
 
 ## Updates made on Master on GitHub before rebase.
 
-##
-Cheese
+Merge conflict resolved manually and locally.
